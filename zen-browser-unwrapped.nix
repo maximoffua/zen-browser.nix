@@ -95,5 +95,6 @@ stdenv.mkDerivation (finalAttrs: {
     binaryName = finalAttrs.meta.mainProgram;
     gssSupport = true;
     ffmpegSupport = true;
+    applicationName = finalAttrs.meta.mainProgram;
   };
 })
