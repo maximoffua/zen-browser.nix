@@ -2,7 +2,7 @@ name: "Check and build all packages"
 on:
   pull_request:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   build-x86_64:
