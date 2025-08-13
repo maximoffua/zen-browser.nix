@@ -5,7 +5,7 @@
     "aarch64-linux": "sha256-cKHsCk8Rwg2b4AaiA9Hf5kLed26bZ/GFCOvd3RjRaDM="
   },
   "twilight": {
-    "x86_64-linux": "sha256-7svODmPFUpKxTaXGgbb0tRmDC9T298p/4oHC/PmxCjY=",
-    "aarch64-linux": "sha256-K+JYIa/sczTOMho3DIHPM5D3+hVv1GiSdBZiXYK4prI="
+    "x86_64-linux": "sha256-e0zMWyhTs1uzAY5zmRRmh1K0oJCZvTOb9LUGU2kfrYA=",
+    "aarch64-linux": "sha256-p7jLvA6Od3UMSw2Y8tPU2XNTbk+Tt5uyKzlZXx0TK+A="
   }
 }
