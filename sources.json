@@ -1,11 +1,11 @@
 {
   "stable": {
-    "version": "1.15.3b",
-    "x86_64-linux": "sha256-jBwiRJ3NRt+kotwHm9oM2NoffNcLg6W0CgttYR0CVSg=",
-    "aarch64-linux": "sha256-Hdw0/s8utMt0dEDPxfcVWLRt4/Z5rK7z7KSWwFpnRWY="
+    "version": "1.15.4b",
+    "x86_64-linux": "sha256-jY9eS/nfnOEOXD9XNpxUyf6OoHABcTnY7ewDNGmaCB4=",
+    "aarch64-linux": "sha256-DhMIrHE8RNPso0sT1o+dNNjVQaS1tiSWzGwJ4WRs3FY="
   },
   "twilight": {
-    "x86_64-linux": "sha256-LmQafJYzBmRHYsxiYMFTKejYylXStF/VDPbk+eAJZEo=",
-    "aarch64-linux": "sha256-FLXuYDuBMCimp1kg+cfMhxk3Fd/ajMpH369m95uI73Y="
+    "x86_64-linux": "sha256-LncwT1dZg0yBJQi7SFkgG183VyoF4bSY5kty2WSBWW4=",
+    "aarch64-linux": "sha256-ayB5X0AvBeHOKEdbOwlPiBAr93xewawC8NMrvkZ0e/A="
   }
 }
