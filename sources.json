@@ -1,8 +1,8 @@
 {
   "stable": {
-    "version": "1.17.3b",
-    "x86_64-linux": "sha256-r2dpSS+BefMNaBwXd33h2nmmsaRMl6HLagNA1Jexnrc=",
-    "aarch64-linux": "sha256-9IP+iJj8Oa/MI28CA84fj8hKrTXSv9EhmgVIR0+yOP0="
+    "version": "1.17.4b",
+    "x86_64-linux": "sha256-9xeqcAvFQhTpWO+CX/shklDorZ+ALHIXikMlc1jlhfM=",
+    "aarch64-linux": "sha256-2IuyqBKJ+RLTtxbwmVx02uzJraFYve/5MM/XEj9uMyA="
   },
   "twilight": {
     "x86_64-linux": "sha256-dVt1D9Sn4hjNq1UdVR7A/wDsSWnRqCOp9yJW++lU0PM=",
