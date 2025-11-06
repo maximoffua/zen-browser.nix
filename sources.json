@@ -1,7 +1,7 @@
 {
   "stable": {
     "version": "1.17.5b",
-    "x86_64-linux": "sha256-eZ3NfXZ12m5LZ0cgZ5WYk2npTO+riFjw8lcRdUp3VZg=",
+    "x86_64-linux": "sha256-X5Q1OuEjbUWE8Y8E446SqvqpoExlTRw9R5TM0esRzP8=",
     "aarch64-linux": "sha256-kCCUyhG1Hw3Kx739NF8tF8zY9ETcIsthFDsJsIFkm3Q="
   },
   "twilight": {
